@@ -1,19 +1,39 @@
-# EE-0001 — Nun Logika
+# EE-0001 — NUNA Logika
 
-Öffentliche Kurzfassung · Yuki Atlas · Konzept, noch nicht implementiert
+Yuki Atlas public Easter-egg concept. Current original presentation: CC BY 4.0. Not an implemented Atlas feature.
 
-## Eigener Originaltext — CC0 1.0 Universal
+## Core statement
 
-Nur der folgende, aus dem eigenen Entwurf übernommene Originaltext wird unter [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) freigegeben:
+> A sign is a clue, not proof. Without context, interpretation remains open.
 
-> Ein Zeichen ist ein Hinweis, kein Beweis. Ohne Kontext bleibt die Interpretation offen.
+The earlier German passage had a narrow CC0 grant. That grant remains unaffected; see [LICENSE.md](LICENSE.md).
 
-Ende des unter CC0 freigegebenen Originaltexts.
+## Creative qualifications
 
-## Öffentliche Einordnung — CC BY 4.0
+NUNA Logika explores observation, context, interpretation, and intellectual humility. Fictional symbols, pirate encounters, and institutional dialogue do not establish religious truth, scientific proof, real-world affiliation, or authorization.
 
-„Nun Logika“ ist ein kreatives Easter-Egg-Konzept über Beobachtung, Kontext, Interpretation und intellektuelle Bescheidenheit. Es behauptet weder eine religiöse Wahrheit noch einen wissenschaftlichen Beweis oder ein bereits implementiertes Feature.
+Keep observations, self-reports, interpretations, verified records, and open questions distinct. A saved assertion is not automatically verified; an artistic motif is not evidence of a real event.
 
-Diese öffentliche Kurzfassung enthält keine internen Rätsellösungen, Auslöser oder Entwicklungsdaten. Sie übernimmt keine fremden Quelltexte. Fremde Quellen und Materialien werden durch die Projektlizenzen nicht umlizenziert.
+## Relationship to NUNA SISTEM
 
-Die Einordnung und übrige eigene Dokumentation stehen unter CC BY 4.0; Namensnennung und Abgrenzung siehe [LICENSE.md](LICENSE.md).
+The separate [local prototype](https://github.com/AslanAtika/NUNA-SISTEM) explores:
+
+- Active notes placed in a grid and passive investigation memory.
+- Fibonacci progression: W1, W1, W2, W3, W5, W8, W13, W21, W34.
+- W34 Legendary: symbolic π on every roll, unlimited free guesses, and Mastery.
+- Greater robbery probability as more dice are taken.
+- Perceptible approaching theft, not automatic protection.
+
+These are the prototype's design rules, not a claim that Atlas already contains them. Earlier-die effects and final balancing remain open.
+
+## Agency and automation
+
+Automate remembering, tracking, comparison, and warning, not the answer or the player's decisions. Model-generated prose must not directly mutate authoritative state.
+
+The system is not a medical device, diagnosis tool, care-team approval, or substance-safety assessment. No personal health narrative or private correspondence is included.
+
+## Public scope
+
+This page publishes no internal puzzle solution, secret trigger, credential, personal contact information, or collaborator source code. Public handles may identify credited contributors; their separate work retains its own rights.
+
+Attribution: AslanAtika / YUKI-ATLAS. See [LICENSE.md](LICENSE.md).

@@ -1,28 +1,25 @@
-# Lizenzregelung für YUKI-ATLAS
+# YUKI-ATLAS License Policy
 
-## Eigene Dokumentation — CC BY 4.0
+## Current default: CC BY 4.0
 
-Soweit nicht ausdrücklich anders gekennzeichnet, wird die eigene Dokumentation dieses Repositorys unter der Creative Commons Attribution 4.0 International Lizenz (CC BY 4.0) bereitgestellt.
+Original code and documentation published here are offered under Creative Commons Attribution 4.0 International, except where separately identified third-party rights or prior grants apply.
 
-Namensnennung: **AslanAtika / YUKI-ATLAS**. Bei Weitergabe sind der Repository-Link, ein Lizenzlink und ein Hinweis auf vorgenommene Änderungen anzugeben; bestehende Rechte- und Urheberhinweise sind zu beachten.
+Attribution: **AslanAtika / YUKI-ATLAS**. Retain applicable individual credits, provide the repository and license links, and indicate changes.
 
 - Repository: https://github.com/AslanAtika/YUKI-ATLAS
-- Verbindlicher Lizenztext: https://creativecommons.org/licenses/by/4.0/legalcode
+- License text: [LICENSES/CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt)
+- Canonical license: https://creativecommons.org/licenses/by/4.0/legalcode
 
-## Enge Ausnahme: EE-0001 „Nun Logika“ — CC0 1.0
+## Historical CC0 grant
 
-Nur die in EE-0001 ausdrücklich als eigene Originaltexte gekennzeichneten Inhalte werden unter CC0 1.0 Universal freigegeben. Die Rechteinhaber widmen diese Inhalte im Rahmen von CC0 der Gemeinfreiheit, soweit rechtlich möglich; im Übrigen gelten die dort vorgesehenen Auffangregelungen.
+Commit `343b32e` released one expressly identified original passage of EE-0001 under CC0:
 
-Diese Ausnahme gilt nicht pauschal für das Dokument, verlinkte Quellen, Zitate, Abbildungen oder andere fremde Materialien und nicht für weitere Easter Eggs.
+> Ein Zeichen ist ein Hinweis, kein Beweis. Ohne Kontext bleibt die Interpretation offen.
 
-Verbindlicher CC0-Text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+The current policy does not withdraw that earlier grant or restrict rights already received under it. The prior passage remains available under that grant; the new English presentation and newly authored material use the current CC BY 4.0 default.
 
-## Fremde Inhalte
+The historical CC0 exception never applied to linked third-party sources, the whole repository, other Easter eggs, or unpublished material. [LICENSES/CC0-1.0.txt](LICENSES/CC0-1.0.txt) is retained as the historical license reference.
 
-Rechte an fremden Quellen und Materialien verbleiben bei den jeweiligen Rechteinhabern. Deren eigene Lizenzbedingungen gelten unverändert. Die Projektlizenzen erteilen keine zusätzlichen Rechte an fremden Inhalten. Quellenangaben allein ersetzen keine Nutzungserlaubnis.
+## Exclusions
 
-## Geltungsbereich
-
-Diese Regelung betrifft die hier freigegebene eigene Dokumentation und die ausdrücklich bezeichnete CC0-Ausnahme. Sie erteilt keine Lizenz für unveröffentlichte Inhalte oder Softwarecode.
-
-Die Datei LICENSES/CC0-1.0.txt enthält den CC0-Standardtext ausschließlich als Referenz für die eng begrenzte Ausnahme oben. Daraus folgt keine pauschale CC0-Freigabe des Repositorys. Bereits wirksam gewährte Rechte an früher veröffentlichten Inhalten werden durch diese Regelung nicht zurückgenommen.
+Third-party sources, collaborators' separate work, private records, unpublished content, and excluded files are not relicensed by this policy. A mention, link, or acknowledgment does not supply permission to reuse someone else's work.
